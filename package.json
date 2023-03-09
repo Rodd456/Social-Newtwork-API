@@ -1,0 +1,22 @@
+{
+  "name": "sna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rodd456/Social-Newtwork-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rodd456/Social-Newtwork-API/issues"
+  },
+  "homepage": "https://github.com/Rodd456/Social-Newtwork-API#readme",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  }
+}
